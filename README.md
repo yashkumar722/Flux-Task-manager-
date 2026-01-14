@@ -1,4 +1,7 @@
 # Flux-Task-manager-
+
+https://github.com/yashkumar722/Flux-Task-manager-/blob/main/Latest_FluxTaskManager.ipynb
+
 Tired of endless to-do lists that don't tell you where to start? This tool uses AI to prioritize your tasks based on what you're actually trying to accomplish, then taps into LLM to give you the resources and help you need. Your personal assistant. Peace'
 ## 🧠 How the AI Works
 The system uses **Google Gemini Flash** to parse natural language and assign scores based on:
